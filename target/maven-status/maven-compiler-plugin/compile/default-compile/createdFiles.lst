@@ -1,0 +1,7 @@
+com\Shop\InternetShop\spring\SpringConfigContext.class
+com\Shop\InternetShop\Model\User.class
+com\Shop\InternetShop\Model\Order.class
+com\Shop\InternetShop\Model\Clothing.class
+com\Shop\InternetShop\Model\Information.class
+com\Shop\InternetShop\HelloServlet.class
+com\Shop\InternetShop\AuthServlet.class
